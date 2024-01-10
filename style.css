@@ -158,11 +158,11 @@ button{
   display: none;
 }
 
-.list-item_editMode .task-descr {
+.list-item_edit-mode .task-descr {
   display: inline-block;
   width: 224px;
 }
 
-.list-item_editMode .task-label {
+.list-item_edit-mode .task-label {
   display: none;
 }
